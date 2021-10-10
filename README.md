@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramosfelipe-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramosfelipe-frontend/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucfqzyum4uvcsaqts17pc7pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfqzyum4uvcsaqts17pc7pq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfqZYuM4UVcSAQTs17pc7PQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfqzyum4uvcsaqts17pc7pq" height="30" width="40" /></a>
 <a href="/https://felipeofor.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://felipeofor.github.io/portfolio/" height="30" width="40" /></a>
 </p>
 
