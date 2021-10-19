@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramos Felipe</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning noSQL **with Node.js**
+- 🌱 I’m currently learning noSQL **with MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://felipeofor.github.io/Portfolio/](https://felipeofor.github.io/Portfolio/)
 
