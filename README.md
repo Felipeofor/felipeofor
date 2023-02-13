@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramos Felipe</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning noSQL **with MongoDB**
+- 🌱 I’m currently learning **Design patterns**
 
 - 👨‍💻 All of my projects are available at [https://felipeofor.github.io/Portfolio/](https://felipeofor.github.io/Portfolio/)
 
 - 🎥 I regularly upload videos on [https://www.youtube.com/channel/UCfqZYuM4UVcSAQTs17pc7PQ](https://www.youtube.com/channel/UCfqZYuM4UVcSAQTs17pc7PQ)
 
-- 💬 Ask me about **JavaScript, React.js, MongoDb, Express, Node.js**
+- 💬 Ask me about **JavaScript, Angular.js, MongoDb, Express, Node.js**
 
 - 📫 How to reach me **Felipeofor@gmail.com**
 
